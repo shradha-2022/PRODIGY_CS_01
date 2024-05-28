@@ -7,12 +7,12 @@ Welcome to the Prodigy Caesar Cipher Project! This project is a Python implement
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-  - [Command-Line Interface](#command-line-interface)
-  - [Graphical User Interface](#graphical-user-interface)
-  - [File Encryption and Decryption](#file-encryption-and-decryption)
+- [Command-Line Interface](#command-line-interface)
+- [Graphical User Interface](#graphical-user-interface)
+- [File Encryption and Decryption](#file-encryption-and-decryption)
 - [Cryptanalysis](#cryptanalysis)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 
 ## Introduction
