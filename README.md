@@ -7,11 +7,12 @@ Welcome to the Prodigy Caesar Cipher Project! This project is a Python implement
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-  - [Command-Line Interface](#python caesar_cipher.py)
-  - [Graphical User Interface](#python caesar_cipher_gui.py)
-  - [File Encryption and Decryption](#encrypt_file('input.txt', 'encrypted_output.txt', 3))
-- [Cryptanalysis](#break_caesar_cipher("KHOOR ZRUOG"))
-- [Contributing](#Contributions are welcome! If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.)
+  - [Command-Line Interface](#command-line-interface)
+  - [Graphical User Interface](#graphical-user-interface)
+  - [File Encryption and Decryption](#file-encryption-and-decryption)
+- [Cryptanalysis](#cryptanalysis)
+- [Contributing](#contributing)
+- [License](#license)
 
 
 ## Introduction
